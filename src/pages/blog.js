@@ -6,5 +6,5 @@ function Blog() {
     <h1>التدوينات</h1>
   );
 }
-
+ 
 export default Blog;
